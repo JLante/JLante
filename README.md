@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Jason.  I don't currently have much on GitHub but I'm hoping to expand on that in the future 👋
 
 <!--
 **JLante/JLante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
